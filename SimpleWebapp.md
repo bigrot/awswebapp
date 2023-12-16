@@ -4,7 +4,7 @@ A simple web app Hosted on AWS
      > https://console.aws.amazon.com/console/home
      
 2. - Choose the Amazon Variant of an Instance.
-     * here we chose the amzon linux *
+     *here we chose the amazon linux*
 3. - Switch to root user and Update Packages .
      ```linux
      sudo su - && yum update -y
