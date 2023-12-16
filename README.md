@@ -48,7 +48,7 @@ A simple web app Hosted on AWS
         
 15. -  Enable and Start Webserver.
          ``` linux
-          systemctl enable httpd &&  systemctl start httpd
+          systemctl enable httpd && systemctl start httpd
       
 16. -  Check status by running webserver.
          ``` linux
