@@ -30,12 +30,12 @@ A simple web app Hosted on AWS
       ``` linux
       wget (template website link)
       
-11 -  Unzip Downloaded website template.
+11  -  Unzip Downloaded website template.
         > Unzip (zipfile)
         
-12 - Run ls -lrt to see all files in the zipped file.
+12  - Run ls -lrt to see all files in the zipped file.
 
-13 - Move all Dowloaded files to Var/ directory.
+13  - Move all Dowloaded files to Var/ directory.
        ``` linux
         Mv * /var/www/html/
         
@@ -43,7 +43,7 @@ A simple web app Hosted on AWS
         ``` linux
         cd /var/www/html/
         
-15. Enable and Start Webserver.
+15. - Enable and Start Webserver.
       ``` linux
       systemctl enable httpd &&  systemctl start httpd
       
