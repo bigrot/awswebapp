@@ -43,13 +43,13 @@ A simple web app Hosted on AWS
         ``` linux
         cd /var/www/html/
         
-15. - Enable and Start Webserver.
-      ``` linux
-      systemctl enable httpd &&  systemctl start httpd
-      
-16. - Check status by running webserver.
+15. -  Enable and Start Webserver.
          ``` linux
-         systemctl status httpd
+         systemctl enable httpd &&  systemctl start httpd
+      
+16. -  Check status by running webserver.
+         ``` linux
+          systemctl status httpd
          
 17 - load new webpage.
       ``` linux
