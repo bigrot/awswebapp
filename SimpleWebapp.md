@@ -30,7 +30,7 @@ A simple web app Hosted on AWS
       ``` linux
       wget (template website link)
       
-11  -  Unzip Downloaded website template.
+11  - Unzip Downloaded website template.
         > Unzip (zipfile)
         
 12  - Run ls -lrt to see all files in the zipped file.
@@ -53,6 +53,6 @@ A simple web app Hosted on AWS
          
 17 - load new webpage.
       ``` linux
-      http://<public-ip>:80
+       http://<public-ip>:80
       
 18. Congratulations your new Webapp running on EC2 is now live. 
