@@ -37,15 +37,15 @@ A simple web app Hosted on AWS
 
 13  -  Move all Dowloaded files to Var/ directory.
         ``` linux
-        mv * /var/www/html/
+         mv * /var/www/html/
         
 14. -  Change directory.
         ``` linux
-        cd /var/www/html/
+         cd /var/www/html/
         
 15. -  Enable and Start Webserver.
          ``` linux
-         systemctl enable httpd &&  systemctl start httpd
+          systemctl enable httpd &&  systemctl start httpd
       
 16. -  Check status by running webserver.
          ``` linux
@@ -53,6 +53,6 @@ A simple web app Hosted on AWS
          
 17 -  load new webpage.
         ``` linux
-        http://[public-ip]:80
+         http://[public-ip]:80
       
 18. Congratulations your new Webapp running on EC2 is now live. 
