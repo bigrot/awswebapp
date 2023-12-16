@@ -24,13 +24,13 @@ A simple web app Hosted on AWS
       ``` linux
       cd temp/
 9. - Get a template of any website of your choice.
-    > [here is an example of where to get some] (https://www.free-css.com/free-css-templates)
+     [here is an example of where to get some] (https://www.free-css.com/free-css-templates)
     
-10 - Download the zip file of template of choice.
+10 -  Download the zip file of template of choice.
      ``` linux
       wget (template website link)
       
-11 - Unzip Downloaded website template.
+11 -  Unzip Downloaded website template.
         > Unzip (zipfile)
         
 12 -  Run ls -lrt to see all files in the zipped file.
