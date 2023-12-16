@@ -37,7 +37,7 @@ A simple web app Hosted on AWS
 
 13 - Move all Dowloaded files to Var/ directory.
        ``` linux
-        - Mv * /var/www/html/
+        Mv * /var/www/html/
         
 14. - Change directory.
         ``` linux
