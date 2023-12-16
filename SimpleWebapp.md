@@ -26,16 +26,16 @@ A simple web app Hosted on AWS
 9. - Get a template of any website of your choice.
      > {https://www.free-css.com/free-css-templates}.
     
-10 - Download the zip file of template of choice.
+10. - Download the zip file of template of choice.
       ``` linux
       wget (template website link)
       
-11  -  Unzip Downloaded website template.
+11.  -  Unzip Downloaded website template.
         > Unzip (zipfile)
         
-12  -  Run ls -lrt to see all files in the zipped file.
+12.  -  Run ls -lrt to see all files in the zipped file.
 
-13  -  Move all Dowloaded files to Var/ directory.
+13.  -  Move all Dowloaded files to Var/ directory.
         ``` linux
          mv * /var/www/html/
         
@@ -51,7 +51,7 @@ A simple web app Hosted on AWS
          ``` linux
           systemctl status httpd
          
-17 -  load new webpage.
+17. -  load new webpage.
         ``` linux
          http://[public-ip]:80
       
