@@ -24,7 +24,7 @@ A simple web app Hosted on AWS
       ``` linux
       cd temp/
 9. - Get a template of any website of your choice.
-   > [here is an example of where to get some] {https://www.free-css.com/free-css-templates}.
+     > {https://www.free-css.com/free-css-templates}.
     
 10 - Download the zip file of template of choice.
       ``` linux
