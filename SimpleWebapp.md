@@ -31,7 +31,7 @@ A simple web app Hosted on AWS
       wget (template website link)
       
 11.  -  Unzip Downloaded website template.
-        > Unzip (zipfile)
+        > run Unzip (zipfile)
         
 12.  -  Run command to list all files in the zipped file.
          ``` linux
