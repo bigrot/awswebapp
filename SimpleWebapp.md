@@ -30,16 +30,16 @@ A simple web app Hosted on AWS
       ``` linux
       wget (template website link)
       
-11  - Unzip Downloaded website template.
+11  -  Unzip Downloaded website template.
         > Unzip (zipfile)
         
-12  - Run ls -lrt to see all files in the zipped file.
+12  -  Run ls -lrt to see all files in the zipped file.
 
-13  - Move all Dowloaded files to Var/ directory.
-       ``` linux
-        Mv * /var/www/html/
+13  -  Move all Dowloaded files to Var/ directory.
+        ``` linux
+        mv * /var/www/html/
         
-14. - Change directory.
+14. -  Change directory.
         ``` linux
         cd /var/www/html/
         
@@ -51,8 +51,8 @@ A simple web app Hosted on AWS
          ``` linux
           systemctl status httpd
          
-17 - load new webpage.
-      ``` linux
-       http://<public-ip>:80
+17 -  load new webpage.
+        ``` linux
+        http://[public-ip]:80
       
 18. Congratulations your new Webapp running on EC2 is now live. 
