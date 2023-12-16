@@ -33,7 +33,9 @@ A simple web app Hosted on AWS
 11.  -  Unzip Downloaded website template.
         > Unzip (zipfile)
         
-12.  -  Run ls -lrt to see all files in the zipped file.
+12.  -  Run command to list all files in the zipped file.
+         ``` linux
+           ls -lrt 
 
 13.  -  Move all Dowloaded files to Var/ directory.
         ``` linux
