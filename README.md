@@ -1,4 +1,4 @@
-# awswebap
+# awswebapp
 A simple web app Hosted on AWS
 1. - Login to the EC2 AWS Console.
      > https://console.aws.amazon.com/console/home
